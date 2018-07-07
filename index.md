@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html"> 
+<html> 
+<body>
+<p>
+<center>
+<H1><a href="http://famousastrologerindian.com"> Famous Astrologer Indian</a>
+<br>
+What are the zodiac sign dates for every star sign? Your zodiac sign, also known as your Sun sign, is based on a range of dates that lasts about a month. If you were born with this date range, you are a member of this zodiac sign.
 
-You can use the [editor on GitHub](https://github.com/carolinehertz/Famous-Astrologer-Indian/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Although the exact dates can shift plus or minus a day, depending on the year, here are the general zodiac sign dates used by Western (or Tropical)</a><br> astrology:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="http://famousastrologerindian.com/aries.html"> Aries (March 21-April 19)</a><br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<a href="http://famousastrologerindian.com/Taurus.html"> Taurus (April 20-May 20)</a><br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<a href="http://famousastrologerindian.com/Gemini.html"> Gemini (May 21-June 20)</a><br>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<a href="http://famousastrologerindian.com/Cancer.html"> Cancer (June 21-July 22)</a><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carolinehertz/Famous-Astrologer-Indian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<a href="http://famousastrologerindian.com/leo.html"> Leo (July 23-August 22)</a><br>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<a href="http://famousastrologerindian.com/Virgo.html"> Virgo (August 23-September 22)</a><br>
+
+
+
+
+<a href="http://famousastrologerindian.com/Libra.html"> Libra (September 23-October 22)</a><br>
+
+
+
+<a href="http://famousastrologerindian.com/Scorpio.html"> Scorpio (October 23-November 21)</a><br>
+
+
+
+<a href="http://famousastrologerindian.com/Sagittarius.html"> Sagittarius (November 22-December 21)</a><br>
+
+
+<a href="http://famousastrologerindian.com/Capricorn.html"> Capricorn (December 22-January 19)</a><br>
+
+
+
+
+<a href="http://famousastrologerindian.com/Aquarious.html"> Aquarius (January 20 to February 18)</a><br>
+
+<a href="http://famousastrologerindian.com/Pisces.html"> Pisces (February 19 to March 20)</a><br>
+</center>
+<p>
+</body>
+</html> 
